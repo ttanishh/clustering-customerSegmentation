@@ -1,6 +1,4 @@
-Here’s a complete and polished `README.md` file for your **Customer Segmentation Clustering Dashboard** project using Gradio:
 
----
 
 # 🧠 Customer Segmentation with Clustering | Gradio Dashboard
 
